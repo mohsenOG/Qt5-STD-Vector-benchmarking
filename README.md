@@ -1,4 +1,4 @@
-# Qt4-STD-Vector-benchmarking
+# Qt5-STD-Vector-benchmarking
 
 ## Overview
 
